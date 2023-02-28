@@ -1,0 +1,43 @@
+body{
+background-color:mistyrose ;
+}
+
+p{
+    text-align: center;
+    font-weight: bold;
+}
+
+button{
+    color: aqua;
+    background-color: black;
+    border-radius: 20px;
+    margin-top: 10px;
+    width: 30%;
+}
+
+button:hover{
+    cursor: none;
+    background-color: aqua;
+    color: black;
+    opacity: 50%;
+    transition: 1s;
+}
+
+input{
+    border-radius: 10px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    opacity: 70%;
+    border: solid 3px black;
+}
+
+.form{
+    background-image : linear-gradient(125deg,dimgrey,silver,salmon ) ;
+    text-align: center;
+    height: 300px;
+    padding: 70px;
+    color: black;
+    border-radius: 100px;
+    border: solid 5px silver;
+}
+
